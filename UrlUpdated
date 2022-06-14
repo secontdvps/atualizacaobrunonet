@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.0",
+  "Version": "1.0.1",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/secontdvps/atualizacaobrunonet/main/UrlUpdated",
   "Sms": "https://paste.anasor.com/paste.php?raw&id=13216",
@@ -14,7 +14,7 @@
   ],
   "Servers": [
     {
-      "Name": "Servidor BR",
+      "Name": "Servidor BRASIL",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "apolossh.tk",
